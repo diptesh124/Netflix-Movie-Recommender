@@ -1,0 +1,16 @@
+# Ignore data and models
+data/
+model/
+
+# Ignore API keys / env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
