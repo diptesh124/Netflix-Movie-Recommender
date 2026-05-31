@@ -1,5 +1,4 @@
 # Ignore data and models
-data/
 model/
 
 # Ignore API keys / env
