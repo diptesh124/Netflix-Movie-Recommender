@@ -119,15 +119,15 @@ This will create required `.pkl` files in the model/ folder.
 
 * 🔍 Autocomplete search (like Netflix)
 * 🌐 Deploy online (Streamlit Cloud)
-* 📱 Convert into Flutter mobile app
+* 📱 Convert into mobile app
 * 🤖 Hybrid recommendation system
 
 ---
 
 ## 🧑‍💻 Author
 
-**Sanjeeb Yadav**
-AI & ML | Flutter & AI Enthusiast
+**Diptesh Das**
+CSE | Data Analyst
 
 ---
 
